@@ -53,34 +53,6 @@ rpart.plot
 randomForest
 gridExtra
 ```
-
----
-
-## 📈 Resultados principales
-
-- El modelo **Random Forest** con parámetros ajustados (`mtry=6`, `ntree=50`, `maxnodes=15`) alcanzó la **mayor precisión y estabilidad**.  
-- Las variables más influyentes fueron:  
-  - `total.day.charge`, `customer.service.calls`, `total.intl.minutes`.  
-- El **Árbol de Decisión podado** logró una mejor interpretabilidad visual, con métricas comparables.  
-
-*(Se pueden visualizar los gráficos en la carpeta `/plots`)*
-
----
-
-## 🚀 Próximos pasos
-
-- Publicar una versión interactiva del análisis en Kaggle.  
-- Implementar un dashboard de monitoreo en Power BI o Shiny.  
-- Explorar modelos adicionales: XGBoost y Regresión Logística.
-
----
-
-## 👩‍💻 Autora
-
-**Roxana Cares**  
-📍 Casablanca, Región de Valparaíso, Chile  
-🔗 [LinkedIn](https://www.linkedin.com/in/roxcares) | [GitHub](https://github.com/roxcares)  
-
 ---
 
 ## 📚 Licencia

@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages("caret")
+install.packages("ROCR")
+install.packages("rpart")
+install.packages("rpart.plot")
+install.packages("ggcorrplot")
+install.packages("gridExtra")
+install.packages("randomForest")

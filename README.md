@@ -1,4 +1,4 @@
-# 🧠 Análisis de Churn y Modelado Predictivo con Random Forest y Árboles de Decisión en R
+## Análisis de Churn y Modelado Predictivo con Random Forest y Árboles de Decisión en R
 
 Proyecto desarrollado como parte del **Diplomado en Ciencia de Datos e Inteligencia Artificial (PUCV, 2024)**.  
 El objetivo principal es aplicar técnicas de **análisis exploratorio y modelado predictivo** para detectar clientes con alta probabilidad de abandono (*churn*) utilizando **R** y algoritmos de **machine learning supervisado**.
